@@ -1,0 +1,133 @@
+# Thomas Scott Beck
+
+> Chief of Staff, Operations at a seed stage cross border payments company. Reports to the chief executive. One of three scope owners since August 2026. Salt Lake City, Utah.
+
+A record of work, stated as facts with sources and states. State words: DONE = the loop is closed and dated; RUNNING = operates without him, measured on the date shown; SIGNED = a decision closed by signature, outcome dated; CLOSED A STEP = a step closed inside a longer program; IN FLIGHT = open, and said so.
+
+## The case
+
+- Month one: audited the inherited financial model at the formula level and corrected a structural error in the burn forecast before the next board cycle. The rebuilt model now runs the lead investor's quarterly filing, reconciled to the accountants within a rounding error. [DONE, RUNNING; Financial model audit, March 2026; measured 2026-09-19]
+- Closed four senior hires end to end. The founding product manager signed 25 days after first contact, against a competing offer. Selected, negotiated, and signed the SOC 2 audit program eight days after quote confirmation. [DONE, SIGNED; Hiring record, first contact to signed offer; measured 2026-09-08]
+- Scope expanded four times in seven months: bank signatory at week six; the design partner program in May; the operating model, investor materials, and the product leadership hire by July; the operations function at executive level in August. [RUNNING; Company decision record and dated leadership messages; measured 2026-09-19]
+
+## The strongest proof
+
+- Hours before signature, caught three wrong material terms in a senior offer by rebuilding the chain of twelve documents behind it. A controls finding on paper the chief executive was about to sign. [DONE; Offer document chain, August 2026; measured 2026-08-10]
+
+## At a glance
+
+- Role: Chief of Staff, Operations; reports to the chief executive; one of three scope owners since August 2026 (go to market, technology, operations) [RUNNING; Company decision record and dated leadership messages; measured 2026-09-19]
+- Tenure in seat: March 2026 to present; scope expanded four times in that period [RUNNING; Company decision record and dated leadership messages; measured 2026-09-19]
+- Functions owned: Eight: finance operations; board and investor reporting; hiring and people; legal, risk, and vendors; launch operations; IT, identity, and security; onboarding; company cadence [RUNNING; Company decision record and dated leadership messages; measured 2026-09-19]
+- Countries of employment administered: Four, with no HR function [RUNNING; Employment provider records, four countries; measured 2026-09-19]
+- Senior hires closed: Four, end to end: founding product manager, head of European integrations, DevOps, product design. A fifth supported, in legal and risk. All four started [DONE; Hiring record, first contact to signed offer; measured 2026-09-20]
+- Days to signed offer: 25 from first contact (45 from criteria set), founding product manager, against a competing offer [DONE; Hiring record, first contact to signed offer; measured 2026-08-10]
+- Recruiting funnel: 2,900+ applicants; about 1,700 pre-filtered and 340 tiered by agents; 46 people interviewed across 62 interviews [RUNNING; Recruiting database, read only count, 2026-09-19; measured 2026-09-19]
+- Outside organizations, counterparty of record: 168: investors, counsel, compliance firms, insurers, cloud platforms, employment providers, banks, payment partners [RUNNING; Workspace channel and counterparty records, counted 2026-09-19; measured 2026-09-19]
+- Agreements to full signature: 21 in 97 days; a mutual NDA now takes two inputs and about a minute, and a cofounder runs it himself [DONE, RUNNING; Contract log, 97 days; measured 2026-09-19]
+- Compliance audit program: SOC 2 selected, negotiated, and signed eight days after quote confirmation; both audit types secured in year one; Type I audit targeted within ninety days [SIGNED; Signed audit engagement, 2026-09-08; measured 2026-09-08]
+- Equity administration: First grant wave administered through board consent (8 grants); jurisdiction correct tax treatment [DONE; Board consent and equity records; measured 2026-09-19]
+- Pre-release review: Two client facing releases; 46 ranked findings including one critical, before any customer saw the build [DONE; Launch operations plan of record and review logs; measured 2026-09-19]
+- Company decision record: 212 dated decisions, each with alternatives, trade offs, and confidence [RUNNING; Workspace channel and counterparty records, counted 2026-09-19; measured 2026-09-19]
+- Personal agents for leaders: Five leaders provisioned; the chief executive used his on each of its first 54 days and has since written 10 of its 24 standing automations himself [RUNNING; Per leader agent deployment logs, measured 2026-09-20; measured 2026-09-20]
+- Function agents: Recruiting platform, unattended with every source healthy; customer feedback agent, 13 consecutive weekly reports from 250+ calls and 1,700+ signals; pipeline mirror, daily [RUNNING; Function agent run logs and databases; measured 2026-09-19]
+
+## Cycles delivered
+
+The experience field, counted in cycles rather than months.
+
+- Monthly close: With outside accountants, every month since March 2026; board and investor package every cycle [RUNNING; Investor filings and monthly close records; measured 2026-09-19]
+- Investor filing: Lead investor quarterly metrics filing across consecutive quarters, prepared six days early, reconciled to the accountants within a rounding error; four defects in the outside close model flagged rather than patched [RUNNING; Investor filings and monthly close records; measured 2026-09-19]
+- Board cycles: Every cycle since the first in March 2026; Q2 meeting on materials and a reforecast he built [DONE; Company decision record and dated leadership messages; measured 2026-07-23]
+- Hiring cycles: Four senior hires from sourcing to signature; two competitive vendor procurements from written request to award [DONE; Cycle time facts from dated records; measured 2026-09-19]
+- Programs: One audit program from vendor selection to signed contract; one insurance program from covenant to carrier submission; one executive retreat authored and hosted; one new function built from zero; one operating model rebuilt [DONE; Cycle time facts from dated records; measured 2026-09-19]
+
+## Finds what others miss
+
+Investment banking rigor applied to a startup's real documents.
+
+- Model audit: Audited the outside CFO's three statement model at the formula level in month one; found and corrected a structural error in the burn forecast before the next board cycle [DONE; Financial model audit, March 2026; measured 2026-03-18]
+- Model rebuild: Single driver hub, scenario engine, cohort revenue build, reconciled to closed book cash. 116 standards violations to zero. Zero drift across 28,268 formulas; 2,731 errors found that were visible only in the software investors open [DONE, RUNNING; Financial model standards check, formula level; measured 2026-09-19]
+- Defensibility pass: One overnight pass removed about a quarter of out year spend; the fundraise trigger, close, and peak cash dates did not move [DONE; Financial model, defensibility pass, July 2026; measured 2026-07-20]
+- Offer envelope: Hours before signature, caught three wrong material terms in a senior offer by rebuilding the chain of twelve documents behind it [DONE; Offer document chain, August 2026; measured 2026-08-10]
+- Insurance proposal: Proposal arrived at about four times the indication; decomposed line by line and returned priced alternatives at about 40 percent of the quote in under four hours, plus two coverages duplicating policies already held [CLOSED A STEP; Insurance proposal decomposition; measured 2026-09-19]
+- Cyber underwriting forms: Reversed an inaccurate security control answer on two live cyber submissions in under ten minutes, after sourcing all 107 answers [DONE; Cyber underwriting submissions; measured 2026-09-19]
+- Investor covenant: Pinned an overdue covenant to the clause, the date, and the approval mechanism; ended two brokers shopping the same carriers; delivered a complete underwriting pack the same day it was requested, through a twelve gate check [DONE; Insurance covenant and underwriting pack records; measured 2026-09-19]
+- Sales language: Killed an unsupported product performance claim in outbound language and replaced it with the measured baseline [DONE; Vendor and diligence provider review; measured 2026-09-19]
+
+## Speed on the things nobody owns
+
+Every number here is his own cycle time.
+
+- Founding product manager: Signed offer 25 days after first contact. More than 5,000 sourced, 4,000 scored, a 40 person slate verified twice, 116 personalized approaches to 59 senior product leaders. First interviewer, case study author, negotiator, closer [DONE; Hiring record, first contact to signed offer; measured 2026-09-08]
+- Compliance audit program: Signed eight days after quote confirmation. Three vendors evaluated; counsel's findings negotiated into the contract in under 36 hours [SIGNED; Signed audit engagement, 2026-09-08; measured 2026-09-08]
+- Startup cloud credits: Approved three days after the request; then made the company's working model platform with per person, revocable access [DONE, RUNNING; Cloud platform credit approval; measured 2026-09-19]
+- Carrier underwriting pack: Complete and sent about seven hours after it was requested [DONE; Insurance covenant and underwriting pack records; measured 2026-09-19]
+- Benefits census: Ten days from first form to delivered file; one form replacing six data chases; established that the earlier decline was a headcount threshold, not risk [DONE; quote IN FLIGHT; Benefits census records; measured 2026-09-19]
+- Credentials: 71 credentials off plaintext into a managed vault in one day; one rotation now reaches every machine [DONE, RUNNING; Credential vault migration record; measured 2026-09-19]
+- Competitive request for quote: Outsourced diligence review, about eleven firms, seven day window, losing bidders formally closed [DONE; Contract log, 97 days; measured 2026-09-19]
+- Diligence data providers: 205 fields triaged, 94 vendors reviewed, 22 official registries live probed, to a costed three contract recommendation in a single day [CLOSED A STEP; Vendor and diligence provider review; measured 2026-09-19]
+
+## The operating side runs through him
+
+- Employment: Run directly across four countries with no HR function; state registration timed to a start date; a cross border pay dispute resolved with a forward policy; an intellectual property carve out negotiated after the provider refused the standard amendment [RUNNING; Employment provider records, four countries; measured 2026-09-19]
+- Security from nothing: Company wide advisories; a monitored intake; endpoint defense at about one twenty fifth the cost of the rejected alternative with a monitor that watches itself; a compromised banking counterparty caught and escalated the same day with a payment instruction outstanding [RUNNING; Security intake and endpoint records; measured 2026-09-19]
+- Launch operations: Built from zero: version controlled plan of record, a founder brief across eighteen releases, an ownership map reconciling 57 meeting transcripts, six published launch conditions. He is the desk until the hire lands [RUNNING; Launch operations plan of record and review logs; measured 2026-09-19]
+- People: Company wide office hours the chief executive announced; the first round interview script others now run; the September executive retreat authored and hosted; every hire gets a machine, accounts, and an agent before day one; management coaching structure for engineering leads [RUNNING; People operations records; measured 2026-09-19]
+- Hiring at volume: No in house recruiter; five campus channels opened cold; three agencies managed on a signal versus noise scorecard, two retired [RUNNING; Recruiting channel and agency records; measured 2026-09-19]
+
+## What each leader got
+
+Builder is how. Operator is what. Every build ends in a result for a person.
+
+- Chief executive: A private assistant on his own hardware, on his phone, grounded in company material; it can read company systems and cannot write to them. Used on 54 of its first 54 days; 167 sessions he started himself; he has written 10 of its 24 standing automations [RUNNING; Per leader agent deployment logs, measured 2026-09-20; measured 2026-09-20]
+- Go to market and finance: Daily brief, priority push, Friday close, and a Sunday self audit written into his own knowledge base; none of it may send anything externally. 77 consecutive daily sweeps [RUNNING; Per leader agent deployment logs, measured 2026-09-20; measured 2026-09-19]
+- Legal and compliance: Two isolated planes on one machine so company and personal never cross, proven with planted canaries; a signed counterparty clause turned into a blocking machine control. He verified the install himself and reported it clean; 15 services live seven weeks after handover [RUNNING; Per leader agent deployment logs, measured 2026-09-20; measured 2026-09-19]
+- Engineering: A dead install rebuilt into five daily jobs: digest, standup prep, flaky test sweep, security sweep. Running daily since 2026-09-09 [RUNNING; Per leader agent deployment logs, measured 2026-09-20; measured 2026-09-19]
+- Founding product manager: Two machines from purchase to handover in three days; assistant connected to mail, calendar, messages, and company records before day one; onboarding written into the agent itself. By day six he was building on the written standard [RUNNING; Per leader agent deployment logs, measured 2026-09-20; measured 2026-09-19]
+
+## How the agents are kept trustworthy
+
+- Less access than the person served: The builder holds less access to the chief executive's assistant than the chief executive does, proven on a ten case privacy test before it was applied, on the principal's explicit go [DONE; Per leader agent deployment logs, measured 2026-09-20; measured 2026-09-19]
+- Review before release: Three consecutive internal releases halted on an independent reviewer's objection while their own tests were passing [DONE; Per leader agent deployment logs, measured 2026-09-20; measured 2026-09-19]
+- Self modification blocked: Audited an AI system's forty item plan to upgrade itself and blocked it, documenting eleven serious defects. Rule written: no system turns its own self assessment into a change to its behavior [DONE; Per leader agent deployment logs, measured 2026-09-20; measured 2026-09-19]
+- Someone is on call: The chief executive's assistant went down overnight and was back with its full history in nine hours, after the first passing test was rejected as a false green. Every leader's machine now has independent monitoring [RUNNING; Per leader agent deployment logs, measured 2026-09-20; measured 2026-09-19]
+- The approval rule: Agents read and prepare freely. Anything that leaves the company waits for a person to approve the exact draft; if the draft changes, the approval is gone [RUNNING; Per leader agent deployment logs, measured 2026-09-20; measured 2026-09-19]
+- Providers certified: Ten AI and data providers checked against a training and retention standard from primary vendor terms; one that trains on customer data by default was caught before any content reached it [DONE; Provider terms review, ten providers; measured 2026-09-19]
+- Paid memory service removed: Removed after proving nothing read from it; every usable fact migrated first with source level checks [DONE; Per leader agent deployment logs, measured 2026-09-20; measured 2026-09-19]
+- No rounding up: An unresolved outage written up as unresolved; a delivery note that opened with its own ten defects [DONE; Per leader agent deployment logs, measured 2026-09-20; measured 2026-09-19]
+- Scope: Internal operating tools, in daily use. Customer facing systems and anything that needs engineering grade reliability sit with engineering by design; a tool that reaches that bar is handed over [RUNNING; Per leader agent deployment logs, measured 2026-09-20; measured 2026-09-19]
+
+## Skills
+
+- Operations and finance: Three statement modeling and valuation; budgeting and monthly close; board and investor reporting; competitive vendor selection and contract review; insurance and compliance operations; SOC 2 and audit readiness; KYC and AML vendor selection; equity administration [RUNNING; Company decision record and dated leadership messages; measured 2026-09-19]
+- Hiring and people: Sourcing, structured interviews, scorecards, pay bands, offers; onboarding; payroll and benefits platforms (PEO, HRIS); employment across four countries [RUNNING; Recruiting channel and agency records; measured 2026-09-19]
+- Working with agents: Designing personal and function agents; shared memory with sources; approval and permission design; evaluation and review before reliance; choosing the right model for the work [RUNNING; Per leader agent deployment logs, measured 2026-09-20; measured 2026-09-19]
+- Data and tools: Python, SQL, R; machine learning, causal inference, NLP; Claude Code, Codex; Linear, Notion, Ashby, Deel, Ramp, Google Workspace, Slack [RUNNING; Company decision record and dated leadership messages; measured 2026-09-19]
+
+## Earlier experience and education
+
+- Incentrum Group, Senior Analyst, M&A and Strategic Advisory, New York, January 2021 to August 2022: Boutique merchant bank; deal teams of two with direct exposure to client executives; managed interns and junior analysts. Sole built a 140+ tab consolidated operating model for a $200M capital raise process (100+ clinic level P&Ls, cohorts, comparables, precedents). Junior team member on the advisory to Regal on its Reverse Morris Trust with Rexnord's PMC segment, announced February 2021. 15+ major models across healthcare, life sciences, and technology [DONE; Public record; measured 2022-08-31]
+- Rockmont Partners, Associate Contractor, September to December 2023: Supported the launch of a $50M FinTech and HealthTech fund: valuations, LP deal rooms, fund formation [DONE; Public record; measured 2023-12-31]
+- Greenfield New Venture Studio, Research and Strategy Intern, January to March 2024: Industry diligence, market sizing, investment committee presentations [DONE; Public record; measured 2024-03-31]
+- Leonard Green & Partners, Summer Analyst, Private Equity, Los Angeles, July to August 2019: Middle market acquisition diligence, investment committee memos, LBO analysis [DONE; Public record; measured 2019-08-31]
+- Ares Management, Summer Rotational Intern, Los Angeles, June to August 2018: Rotations across real estate debt and equity, direct lending, and U.S. liquid credit [DONE; Public record; measured 2018-08-31]
+- Yale University, B.A. Economics; Energy Studies, 2016 to 2020: Coursework: Private Equity Investing, Entrepreneurship, Corporate Finance, Accounting, Econometrics. Three seat, 2018 IRA national champion varsity eight; First Team All Ivy, 2018. Bow seat, U.S. Under 23 men's four, 2019 World Championships (eighth) [DONE; Public record; measured 2020-05-31]
+- University of Utah, David Eccles School of Business, M.S. Business Analytics, full time, January 2024 to December 2025: Machine learning, causal inference, NLP, SQL, Python. Capstone: lead conversion models on two years of CRM data [DONE; Public record; measured 2025-12-31]
+- Park City Culinary Institute, Culinary Arts program, October 2022 to January 2023: Utah native. Salt Lake City, thirty minutes from Park City. Skiing, mountain biking, rowing, cooking [DONE; Public record; measured 2023-01-31]
+
+## How this record is kept
+
+On 2026-09-19 an independent check re-opened 123 claims from this record against live systems and primary files. 84 confirmed, 29 confirmed in part, 2 corrected, 8 not checked. The largest numbers reproduced to the digit.
+
+Nothing here rounds up. Where a program is open, the page says so. Figures are re-measured before any date older than thirty days is repeated.
+
+## Files
+
+- Human page: https://thomasbeck.ai/
+- Plain record: https://thomasbeck.ai/record/
+- JSON (schema.org Person plus the record fields): https://thomasbeck.ai/record.json
+- Live panel: not yet shown. Measured fallback: 21 of 21 recruiting sources healthy with nobody at the keyboard, read from the recruiting database at 04:00 on a Saturday (2026-09-19).
+- Contact: thomas.beck.ai@gmail.com; https://linkedin.com/in/thomas-s-beck
+
+Built 2026-09-20. Not indexed.
