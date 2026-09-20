@@ -124,9 +124,9 @@ Nothing here rounds up. Where a program is open, the page says so. Figures are r
 
 ## Files
 
-- Human page: https://thomasbeck.ai/
-- Plain record: https://thomasbeck.ai/record/
-- JSON (schema.org Person plus the record fields): https://thomasbeck.ai/record.json
+- One screen: https://thomasbeck.ai/record/23rjkckc/
+- Plain record: https://thomasbeck.ai/record/23rjkckc/full/
+- JSON (schema.org Person plus the record fields): https://thomasbeck.ai/record/23rjkckc/record.json
 - Live panel: not yet shown. Measured fallback: 21 of 21 recruiting sources healthy with nobody at the keyboard, read from the recruiting database at 04:00 on a Saturday (2026-09-19).
 - Contact: thomas.beck.ai@gmail.com; https://linkedin.com/in/thomas-s-beck
 
