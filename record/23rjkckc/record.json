@@ -56,10 +56,10 @@
       }
     ],
     "strongest_proof": {
-      "text": "Hours before signature, caught three wrong material terms in a senior offer by rebuilding the chain of twelve documents behind it. A controls finding on paper the chief executive was about to sign.",
+      "text": "Ten AI and data providers checked against a training and retention standard read from primary vendor terms. One that trains on customer data by default was caught before any company content reached it.",
       "state": "DONE",
-      "source": "Offer document chain, August 2026",
-      "measured": "2026-08-10"
+      "source": "Provider terms review, ten providers",
+      "measured": "2026-09-19"
     },
     "fields": {
       "role": {
@@ -246,14 +246,6 @@
         "measured": "2026-07-20",
         "section": "Finds what others miss"
       },
-      "offer_envelope": {
-        "label": "Offer envelope",
-        "value": "Hours before signature, caught three wrong material terms in a senior offer by rebuilding the chain of twelve documents behind it",
-        "state": "DONE",
-        "source": "Offer document chain, August 2026",
-        "measured": "2026-08-10",
-        "section": "Finds what others miss"
-      },
       "insurance": {
         "label": "Insurance proposal",
         "value": "Proposal arrived at about four times the indication; decomposed line by line and returned priced alternatives at about 40 percent of the quote in under four hours, plus two coverages duplicating policies already held",
@@ -360,7 +352,7 @@
       },
       "security": {
         "label": "Security from nothing",
-        "value": "Company wide advisories; a monitored intake; endpoint defense at about one twenty fifth the cost of the rejected alternative with a monitor that watches itself; a compromised banking counterparty caught and escalated the same day with a payment instruction outstanding",
+        "value": "Company wide advisories; a monitored intake; endpoint defense at about one twenty fifth the cost of the rejected alternative with a monitor that watches itself",
         "state": "RUNNING",
         "source": "Security intake and endpoint records",
         "measured": "2026-09-19",
@@ -608,7 +600,7 @@
         "source": "Recruiting database, read only count, 2026-09-19"
       }
     },
-    "built": "2026-09-20",
+    "built": "2026-09-21",
     "human_page": "https://thomasbeck.ai/record/23rjkckc/",
     "plain_record": "https://thomasbeck.ai/record/23rjkckc/full/",
     "llms_txt": "https://thomasbeck.ai/record/23rjkckc/llms.txt"

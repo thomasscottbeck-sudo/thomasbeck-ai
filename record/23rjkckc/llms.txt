@@ -12,7 +12,7 @@ A record of work, stated as facts with sources and states. State words: DONE = t
 
 ## The strongest proof
 
-- Hours before signature, caught three wrong material terms in a senior offer by rebuilding the chain of twelve documents behind it. A controls finding on paper the chief executive was about to sign. [DONE; Offer document chain, August 2026; measured 2026-08-10]
+- Ten AI and data providers checked against a training and retention standard read from primary vendor terms. One that trains on customer data by default was caught before any company content reached it. [DONE; Provider terms review, ten providers; measured 2026-09-19]
 
 ## At a glance
 
@@ -49,7 +49,6 @@ Investment banking rigor applied to a startup's real documents.
 - Model audit: Audited the outside CFO's three statement model at the formula level in month one; found and corrected a structural error in the burn forecast before the next board cycle [DONE; Financial model audit, March 2026; measured 2026-03-18]
 - Model rebuild: Single driver hub, scenario engine, cohort revenue build, reconciled to closed book cash. 116 standards violations to zero. Zero drift across 28,268 formulas; 2,731 errors found that were visible only in the software investors open [DONE, RUNNING; Financial model standards check, formula level; measured 2026-09-19]
 - Defensibility pass: One overnight pass removed about a quarter of out year spend; the fundraise trigger, close, and peak cash dates did not move [DONE; Financial model, defensibility pass, July 2026; measured 2026-07-20]
-- Offer envelope: Hours before signature, caught three wrong material terms in a senior offer by rebuilding the chain of twelve documents behind it [DONE; Offer document chain, August 2026; measured 2026-08-10]
 - Insurance proposal: Proposal arrived at about four times the indication; decomposed line by line and returned priced alternatives at about 40 percent of the quote in under four hours, plus two coverages duplicating policies already held [CLOSED A STEP; Insurance proposal decomposition; measured 2026-09-19]
 - Cyber underwriting forms: Reversed an inaccurate security control answer on two live cyber submissions in under ten minutes, after sourcing all 107 answers [DONE; Cyber underwriting submissions; measured 2026-09-19]
 - Investor covenant: Pinned an overdue covenant to the clause, the date, and the approval mechanism; ended two brokers shopping the same carriers; delivered a complete underwriting pack the same day it was requested, through a twelve gate check [DONE; Insurance covenant and underwriting pack records; measured 2026-09-19]
@@ -71,7 +70,7 @@ Every number here is his own cycle time.
 ## The operating side runs through him
 
 - Employment: Run directly across four countries with no HR function; state registration timed to a start date; a cross border pay dispute resolved with a forward policy; an intellectual property carve out negotiated after the provider refused the standard amendment [RUNNING; Employment provider records, four countries; measured 2026-09-19]
-- Security from nothing: Company wide advisories; a monitored intake; endpoint defense at about one twenty fifth the cost of the rejected alternative with a monitor that watches itself; a compromised banking counterparty caught and escalated the same day with a payment instruction outstanding [RUNNING; Security intake and endpoint records; measured 2026-09-19]
+- Security from nothing: Company wide advisories; a monitored intake; endpoint defense at about one twenty fifth the cost of the rejected alternative with a monitor that watches itself [RUNNING; Security intake and endpoint records; measured 2026-09-19]
 - Launch operations: Built from zero: version controlled plan of record, a founder brief across eighteen releases, an ownership map reconciling 57 meeting transcripts, six published launch conditions. He is the desk until the hire lands [RUNNING; Launch operations plan of record and review logs; measured 2026-09-19]
 - People: Company wide office hours the chief executive announced; the first round interview script others now run; the September executive retreat authored and hosted; every hire gets a machine, accounts, and an agent before day one; management coaching structure for engineering leads [RUNNING; People operations records; measured 2026-09-19]
 - Hiring at volume: No in house recruiter; five campus channels opened cold; three agencies managed on a signal versus noise scorecard, two retired [RUNNING; Recruiting channel and agency records; measured 2026-09-19]
@@ -130,4 +129,4 @@ Nothing here rounds up. Where a program is open, the page says so. Figures are r
 - Live panel: not yet shown. Measured fallback: 21 of 21 recruiting sources healthy with nobody at the keyboard, read from the recruiting database at 04:00 on a Saturday (2026-09-19).
 - Contact: thomas.beck.ai@gmail.com; https://linkedin.com/in/thomas-s-beck
 
-Built 2026-09-20. Not indexed.
+Built 2026-09-21. Not indexed.
