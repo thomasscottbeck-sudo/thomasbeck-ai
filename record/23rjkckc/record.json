@@ -49,7 +49,7 @@
         "measured": "2026-09-08"
       },
       {
-        "text": "Scope expanded four times in seven months: bank signatory at week six; the design partner program in May; the operating model, investor materials, and the product leadership hire by July; the operations function at executive level in August.",
+        "text": "Scope expanded four times since March: bank signatory at week six; the design partner program in May; the operating model, investor materials, and the product leadership hire by July; the operations function at executive level in August.",
         "state": "RUNNING",
         "source": "Company decision record and dated leadership messages",
         "measured": "2026-09-19"
@@ -152,7 +152,7 @@
       },
       "pre_release_review": {
         "label": "Pre-release review",
-        "value": "Two client facing releases; 46 ranked findings including one critical, before any customer saw the build",
+        "value": "Two client facing releases reviewed before launch; 46 ranked findings including one critical",
         "state": "DONE",
         "source": "Launch operations plan of record and review logs",
         "measured": "2026-09-19",

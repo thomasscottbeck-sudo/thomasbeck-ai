@@ -8,7 +8,7 @@ A record of work, stated as facts with sources and states. State words: DONE = t
 
 - Month one: audited the inherited financial model at the formula level and corrected a structural error in the burn forecast before the next board cycle. The rebuilt model now runs the lead investor's quarterly filing, reconciled to the accountants within a rounding error. [DONE, RUNNING; Financial model audit, March 2026; measured 2026-09-19]
 - Closed four senior hires end to end. The founding product manager signed 25 days after first contact, against a competing offer. Selected, negotiated, and signed the SOC 2 audit program eight days after quote confirmation. [DONE, SIGNED; Hiring record, first contact to signed offer; measured 2026-09-08]
-- Scope expanded four times in seven months: bank signatory at week six; the design partner program in May; the operating model, investor materials, and the product leadership hire by July; the operations function at executive level in August. [RUNNING; Company decision record and dated leadership messages; measured 2026-09-19]
+- Scope expanded four times since March: bank signatory at week six; the design partner program in May; the operating model, investor materials, and the product leadership hire by July; the operations function at executive level in August. [RUNNING; Company decision record and dated leadership messages; measured 2026-09-19]
 
 ## The strongest proof
 
@@ -27,7 +27,7 @@ A record of work, stated as facts with sources and states. State words: DONE = t
 - Agreements to full signature: 21 in 97 days; a mutual NDA now takes two inputs and about a minute, and a cofounder runs it himself [DONE, RUNNING; Contract log, 97 days; measured 2026-09-19]
 - Compliance audit program: SOC 2 selected, negotiated, and signed eight days after quote confirmation; both audit types secured in year one; Type I audit targeted within ninety days [SIGNED; Signed audit engagement, 2026-09-08; measured 2026-09-08]
 - Equity administration: First grant wave administered through board consent (8 grants); jurisdiction correct tax treatment [DONE; Board consent and equity records; measured 2026-09-19]
-- Pre-release review: Two client facing releases; 46 ranked findings including one critical, before any customer saw the build [DONE; Launch operations plan of record and review logs; measured 2026-09-19]
+- Pre-release review: Two client facing releases reviewed before launch; 46 ranked findings including one critical [DONE; Launch operations plan of record and review logs; measured 2026-09-19]
 - Company decision record: 212 dated decisions, each with alternatives, trade offs, and confidence [RUNNING; Workspace channel and counterparty records, counted 2026-09-19; measured 2026-09-19]
 - Personal agents for leaders: Five leaders provisioned; the chief executive used his on each of its first 54 days and has since written 10 of its 24 standing automations himself [RUNNING; Per leader agent deployment logs, measured 2026-09-20; measured 2026-09-20]
 - Function agents: Recruiting platform, unattended with every source healthy; customer feedback agent, 13 consecutive weekly reports from 250+ calls and 1,700+ signals; pipeline mirror, daily [RUNNING; Function agent run logs and databases; measured 2026-09-19]
