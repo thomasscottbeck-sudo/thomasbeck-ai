@@ -4,6 +4,7 @@
   const parts = [...svg.querySelectorAll(".part")];
   const wires = [...svg.querySelectorAll(".wire")];
   const controls = [...svg.querySelectorAll(".control")];
+  const plates = [...svg.querySelectorAll(".plate")];
   const mode = matchMedia("(min-width: 1000px)");
   function layout() {
     const wide = mode.matches;
@@ -14,6 +15,12 @@
       positions.set(part.dataset.key, box);
       part.setAttribute("transform", `translate(${box[0]},${box[1]})`);
       part.querySelector("rect").setAttribute("width", box[2]);
+      part.querySelector(".lamp")?.setAttribute("cx", box[2] - 14);
+    });
+    plates.forEach(plate => {
+      const [x, y, w, h] = (wide ? plate.dataset.wide : plate.dataset.small).split(",");
+      plate.setAttribute("x", x); plate.setAttribute("y", y);
+      plate.setAttribute("width", w); plate.setAttribute("height", h);
     });
     svg.querySelectorAll(".group-title").forEach(title => {
       const point = (wide ? title.dataset.wide : title.dataset.small).split(",");
@@ -38,8 +45,27 @@
   const content = dialog.querySelector(".inspection-content");
   let opener;
   function highlight(key) {
+    svg.classList.toggle("has-selection", Boolean(key));
     parts.forEach(part => part.classList.toggle("selected", part.dataset.key === key));
-    wires.forEach(wire => wire.classList.toggle("selected", wire.getAttribute("href") === "#" + key));
+    wires.forEach(wire => {
+      const own = wire.getAttribute("href") === "#" + key;
+      const touches = wire.dataset.start === key || wire.dataset.end === key;
+      wire.classList.toggle("selected", own || touches);
+    });
+  }
+  // a soft light that follows the pointer across the drawing; still under reduced motion
+  const surface = svg.closest(".drawing-surface");
+  if (surface && matchMedia("(hover: hover) and (prefers-reduced-motion: no-preference)").matches) {
+    let frame = 0;
+    surface.addEventListener("pointermove", event => {
+      if (frame) return;
+      frame = requestAnimationFrame(() => {
+        const box = surface.getBoundingClientRect();
+        surface.style.setProperty("--mx", ((event.clientX - box.left) / box.width * 100).toFixed(1) + "%");
+        surface.style.setProperty("--my", ((event.clientY - box.top) / box.height * 100).toFixed(1) + "%");
+        frame = 0;
+      });
+    });
   }
   function inspect(target, origin) {
     if (!dialog.open) opener = origin;
